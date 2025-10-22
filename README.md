@@ -4,16 +4,12 @@ A classic word-guessing game implemented in Python. Players try to guess the hid
 
 📝 Table of Contents
 
-About
-
-1. Features
-2. Gameplay
-3. Installation
-4. Usage
-5. Folder
-6. Structure
-7. Contributing
-8. License
+1. About
+2. Features
+3. Gameplay
+4. Installation
+5. Usage
+6. Folder
 
 📌 About
 
